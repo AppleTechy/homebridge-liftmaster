@@ -1,6 +1,8 @@
 
 # LiftMaster Plugin
 
+This will work with Chamberlain as well since Liftmaster and Chamberlain share the same MYQ Servers!
+
 Example config.json:
 
     {
