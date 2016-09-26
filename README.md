@@ -11,7 +11,8 @@ Example config.json:
           "accessory": "LiftMaster",
           "name": "Garage Door",
           "username": "your@email.com",
-          "password": "your_password"
+          "password": "your_password”,
+          "interval": "time_amount"
         }
       ]
     }
@@ -29,3 +30,4 @@ If you have multiple garage doors connected to your LiftMaster account, the plug
         }
       ]
     }
+Credits to @khaost for creating the revised index.json
